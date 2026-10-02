@@ -26,4 +26,4 @@ Homelab en Ubuntu Server con servicios en Docker Compose, acceso remoto por VPN 
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/diego-joaquin-vega-jauregui-2900082b2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dvegajau)
