@@ -1,6 +1,6 @@
 # Hola, soy Diego 👋
 
-**Estudiante de Ingeniería de Sistemas (UTP) · Soporte TI e infraestructura · Interés en ciberseguridad**
+**Estudiante de Ingeniería de Sistemas e Informática (UTP) · Soporte TI e infraestructura · Interés en ciberseguridad**
 
 ## Sobre mí
 
